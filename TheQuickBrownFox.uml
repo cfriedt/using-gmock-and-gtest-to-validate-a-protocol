@@ -1,0 +1,12 @@
+@startuml
+Bob --> Alice: The
+Alice --> Bob: quick
+Bob --> Alice: brown
+Alice --> Bob: fox
+Bob --> Alice: jumps
+Alice --> Bob: over
+Bob --> Alice: the
+Alice --> Bob: lazy
+Bob --> Alice: dog
+@enduml
+
